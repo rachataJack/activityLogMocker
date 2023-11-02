@@ -1,0 +1,11 @@
+[{"email":"bob@hotmail.com","activityDescription":"bob have delete something..","cause":"","createDate":"2023-11-01T11:23:43Z","categoryType":"master","activityType":"delete"}
+,{"email":"david@testmail.net","activityDescription":"david have create something..","cause":"","createDate":"2023-11-01T23:14:53Z","categoryType":"master","activityType":"create"}
+,{"email":"alice@hotmail.org","activityDescription":"alice have create something..","cause":"","createDate":"2023-11-01T18:40:18Z","categoryType":"sub","activityType":"create"}
+,{"email":"alice@example.net","activityDescription":"alice have create something..","cause":"","createDate":"2023-11-02T15:44:00Z","categoryType":"master","activityType":"create"}
+,{"email":"david@gmail.mail","activityDescription":"david have update something..","cause":"","createDate":"2023-11-02T02:38:37Z","categoryType":"master","activityType":"update"}
+,{"email":"bob@gmail.org","activityDescription":"bob have create something..","cause":"some cause","createDate":"2023-11-02T18:40:21Z","categoryType":"sub","activityType":"create"}
+,{"email":"jane@gmail.io","activityDescription":"jane have create something..","cause":"","createDate":"2023-11-02T04:40:01Z","categoryType":"sub","activityType":"create"}
+,{"email":"jane@hotmail.net","activityDescription":"jane have delete something..","cause":"some cause","createDate":"2023-11-02T20:57:33Z","categoryType":"master","activityType":"delete"}
+,{"email":"jane@testmail.mail","activityDescription":"jane have create something..","cause":"","createDate":"2023-11-01T13:18:47Z","categoryType":"master","activityType":"create"}
+,{"email":"alice@yahoo.mail","activityDescription":"alice have create something..","cause":"","createDate":"2023-11-02T11:17:53Z","categoryType":"master","activityType":"create"}
+]
